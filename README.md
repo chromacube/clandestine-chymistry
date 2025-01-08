@@ -1,8 +1,8 @@
 # clandestine-chymistry
-The Metasynthetic Musical Group "Clandestine Chymistry"
+### A novel folktronica band called "Clandestine Chymistry"
 
-Established on Tuesday, January 7, 2025.
+Clandestine Chymistry (pronounced as "Chemistry") blends organic, synthetic, and augmented sounds to create richly unique musical experiences.
+
+Clandestine Chymistry was formally established on Tuesday, January 7, 2025.
 
 Authorized Agent: Lindon Martingale
-
-Until changed in this document, all included audio, visual, and code materials fall under the [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/) license.
